@@ -1,0 +1,1310 @@
+Gtk-Message: 08:43:15.526: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 08:43:16.368: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 08:43:16.454: Failed to load module "appmenu-gtk-module"
+
+(firefox:4048): GLib-GIO-WARNING **: 08:43:16.536: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593160997099	Marionette	INFO	Listening on port 36767
+1593160997107	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593160997196	Marionette	INFO	Stopped listening on port 36767
+console.warn: services.settings: main/whats-new-panel sync interrupted by shutdown
+Gtk-Message: 08:44:02.036: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 08:44:02.617: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 08:44:02.691: Failed to load module "appmenu-gtk-module"
+
+(firefox:4357): GLib-GIO-WARNING **: 08:44:02.797: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593161043307	Marionette	INFO	Listening on port 38711
+1593161043360	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593161043435	Marionette	INFO	Stopped listening on port 38711
+Gtk-Message: 08:46:02.002: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 08:46:02.567: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 08:46:02.638: Failed to load module "appmenu-gtk-module"
+
+(firefox:4800): GLib-GIO-WARNING **: 08:46:02.735: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593161163198	Marionette	INFO	Listening on port 37701
+1593161163230	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593161163347	Marionette	INFO	Stopped listening on port 37701
+console.warn: services.settings: main/whats-new-panel sync interrupted by shutdown
+Gtk-Message: 08:47:29.268: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 08:47:29.849: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 08:47:29.948: Failed to load module "appmenu-gtk-module"
+
+(firefox:5099): GLib-GIO-WARNING **: 08:47:30.027: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593161250524	Marionette	INFO	Listening on port 40693
+1593161250581	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593161250644	Marionette	INFO	Stopped listening on port 40693
+Gtk-Message: 08:48:20.707: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 08:48:21.261: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 08:48:21.333: Failed to load module "appmenu-gtk-module"
+
+(firefox:5386): GLib-GIO-WARNING **: 08:48:21.390: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593161301959	Marionette	INFO	Listening on port 42395
+1593161302033	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593161302126	Marionette	INFO	Stopped listening on port 42395
+Gtk-Message: 08:48:36.460: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 08:48:36.987: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 08:48:37.073: Failed to load module "appmenu-gtk-module"
+
+(firefox:5598): GLib-GIO-WARNING **: 08:48:37.174: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593161317699	Marionette	INFO	Listening on port 40293
+1593161317796	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593161317893	Marionette	INFO	Stopped listening on port 40293
+Gtk-Message: 09:02:39.760: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:02:40.323: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:02:40.400: Failed to load module "appmenu-gtk-module"
+
+(firefox:6160): GLib-GIO-WARNING **: 09:02:40.485: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593162161019	Marionette	INFO	Listening on port 44835
+1593162161082	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593162161156	Marionette	INFO	Stopped listening on port 44835
+Gtk-Message: 09:04:26.337: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:04:26.897: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:04:26.972: Failed to load module "appmenu-gtk-module"
+
+(firefox:6455): GLib-GIO-WARNING **: 09:04:27.055: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593162267567	Marionette	INFO	Listening on port 40283
+1593162267652	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593162267735	Marionette	INFO	Stopped listening on port 40283
+Gtk-Message: 09:04:39.962: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:04:40.514: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:04:40.586: Failed to load module "appmenu-gtk-module"
+
+(firefox:6672): GLib-GIO-WARNING **: 09:04:40.703: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593162281216	Marionette	INFO	Listening on port 44547
+1593162281285	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593162281358	Marionette	INFO	Stopped listening on port 44547
+Gtk-Message: 09:05:34.657: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:05:35.236: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:05:35.309: Failed to load module "appmenu-gtk-module"
+
+(firefox:6905): GLib-GIO-WARNING **: 09:05:35.367: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593162335862	Marionette	INFO	Listening on port 46233
+1593162335884	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593162335987	Marionette	INFO	Stopped listening on port 46233
+Gtk-Message: 09:08:15.148: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:08:15.753: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:08:15.826: Failed to load module "appmenu-gtk-module"
+
+(firefox:7245): GLib-GIO-WARNING **: 09:08:15.927: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593162496462	Marionette	INFO	Listening on port 39573
+1593162496470	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 09:08:16.759: Failed to load module "appmenu-gtk-module"
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1593162519997	Marionette	INFO	Stopped listening on port 39573
+Gtk-Message: 09:08:51.414: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:08:51.976: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:08:52.057: Failed to load module "appmenu-gtk-module"
+
+(firefox:7516): GLib-GIO-WARNING **: 09:08:52.113: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593162532607	Marionette	INFO	Listening on port 45613
+1593162532636	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 09:08:53.010: Failed to load module "appmenu-gtk-module"
+1593162590640	Marionette	INFO	Stopped listening on port 45613
+Gtk-Message: 09:13:05.931: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:13:06.450: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:13:06.544: Failed to load module "appmenu-gtk-module"
+
+(firefox:8085): GLib-GIO-WARNING **: 09:13:06.627: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593162787143	Marionette	INFO	Listening on port 36301
+1593162787159	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 09:13:07.493: Failed to load module "appmenu-gtk-module"
+Exiting due to channel error.
+Gtk-Message: 09:18:43.383: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:18:43.952: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:18:44.026: Failed to load module "appmenu-gtk-module"
+
+(firefox:9481): GLib-GIO-WARNING **: 09:18:44.087: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593163124616	Marionette	INFO	Listening on port 35065
+1593163124712	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 09:18:44.952: Failed to load module "appmenu-gtk-module"
+1593163163266	Marionette	INFO	Stopped listening on port 35065
+Gtk-Message: 09:20:59.469: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:21:00.068: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:21:00.141: Failed to load module "appmenu-gtk-module"
+
+(firefox:9953): GLib-GIO-WARNING **: 09:21:00.187: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593163260711	Marionette	INFO	Listening on port 37555
+1593163260794	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 09:21:01.100: Failed to load module "appmenu-gtk-module"
+1593163266910	Marionette	INFO	Stopped listening on port 37555
+Gtk-Message: 09:22:47.067: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:22:47.673: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:22:47.748: Failed to load module "appmenu-gtk-module"
+
+(firefox:10334): GLib-GIO-WARNING **: 09:22:47.802: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593163368382	Marionette	INFO	Listening on port 33059
+1593163368392	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 09:22:48.700: Failed to load module "appmenu-gtk-module"
+1593163397448	Marionette	INFO	Stopped listening on port 33059
+Gtk-Message: 09:23:32.711: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:23:33.264: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:23:33.343: Failed to load module "appmenu-gtk-module"
+
+(firefox:10601): GLib-GIO-WARNING **: 09:23:33.405: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593163413907	Marionette	INFO	Listening on port 35653
+1593163413936	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 09:23:34.278: Failed to load module "appmenu-gtk-module"
+1593163418333	Marionette	INFO	Stopped listening on port 35653
+Gtk-Message: 09:24:03.354: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:24:03.903: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:24:03.974: Failed to load module "appmenu-gtk-module"
+
+(firefox:10876): GLib-GIO-WARNING **: 09:24:04.062: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593163444570	Marionette	INFO	Listening on port 46671
+1593163444579	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 09:24:04.909: Failed to load module "appmenu-gtk-module"
+1593163447264	Marionette	INFO	Stopped listening on port 46671
+Gtk-Message: 09:33:10.834: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:33:11.420: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:33:11.498: Failed to load module "appmenu-gtk-module"
+
+(firefox:11882): GLib-GIO-WARNING **: 09:33:11.571: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593163992068	Marionette	INFO	Listening on port 38103
+1593163992178	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 09:33:12.428: Failed to load module "appmenu-gtk-module"
+1593163998830	Marionette	INFO	Stopped listening on port 38103
+Gtk-Message: 09:40:37.545: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:40:38.104: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:40:38.207: Failed to load module "appmenu-gtk-module"
+
+(firefox:12394): GLib-GIO-WARNING **: 09:40:38.282: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593164438805	Marionette	INFO	Listening on port 39419
+1593164438860	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 09:40:39.122: Failed to load module "appmenu-gtk-module"
+1593164439281	Marionette	INFO	Stopped listening on port 39419
+Gtk-Message: 09:40:54.544: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:40:55.103: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:40:55.174: Failed to load module "appmenu-gtk-module"
+
+(firefox:12648): GLib-GIO-WARNING **: 09:40:55.232: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593164455794	Marionette	INFO	Listening on port 35155
+1593164455863	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 09:40:56.120: Failed to load module "appmenu-gtk-module"
+1593164475080	Marionette	INFO	Stopped listening on port 35155
+Gtk-Message: 10:37:48.348: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 10:37:48.968: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 10:37:49.045: Failed to load module "appmenu-gtk-module"
+
+(firefox:13913): GLib-GIO-WARNING **: 10:37:49.167: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593167869682	Marionette	INFO	Listening on port 43973
+1593167869745	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 10:37:49.978: Failed to load module "appmenu-gtk-module"
+1593167916331	Marionette	INFO	Stopped listening on port 43973
+Gtk-Message: 10:41:48.477: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 10:41:49.116: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 10:41:49.208: Failed to load module "appmenu-gtk-module"
+
+(firefox:14716): GLib-GIO-WARNING **: 10:41:49.326: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593168109849	Marionette	INFO	Listening on port 37763
+1593168109905	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 10:41:50.125: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 10:42:04.058: Failed to load module "appmenu-gtk-module"
+Exiting due to channel error.
+Gtk-Message: 10:44:55.629: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 10:44:56.261: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 10:44:56.342: Failed to load module "appmenu-gtk-module"
+
+(firefox:15091): GLib-GIO-WARNING **: 10:44:56.417: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593168297034	Marionette	INFO	Listening on port 33319
+1593168297044	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 10:44:57.266: Failed to load module "appmenu-gtk-module"
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js, line 2: Script terminated by timeout at:
+X@https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js:2:32628
+get@https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js:2:33160
+trigger@https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js:2:71444
+simulate@https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js:2:72016
+i@https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js:2:72305
+
+1593168353166	Marionette	INFO	Stopped listening on port 33319
+Gtk-Message: 10:51:47.946: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 10:51:48.500: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 10:51:48.573: Failed to load module "appmenu-gtk-module"
+
+(firefox:15630): GLib-GIO-WARNING **: 10:51:48.641: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593168709141	Marionette	INFO	Listening on port 45095
+1593168709177	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 10:51:49.509: Failed to load module "appmenu-gtk-module"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Gtk-Message: 16:24:12.975: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 16:24:13.898: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 16:24:13.983: Failed to load module "appmenu-gtk-module"
+
+(firefox:3316): GLib-GIO-WARNING **: 16:24:14.064: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593188654578	Marionette	INFO	Listening on port 37987
+1593188654599	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 16:24:14.904: Failed to load module "appmenu-gtk-module"
+1593189210417	Marionette	INFO	Stopped listening on port 37987
+Gtk-Message: 16:02:35.049: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 16:02:35.664: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 16:02:35.740: Failed to load module "appmenu-gtk-module"
+
+(firefox:10890): GLib-GIO-WARNING **: 16:02:35.823: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593446556295	Marionette	INFO	Listening on port 43703
+1593446556361	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 16:02:36.680: Failed to load module "appmenu-gtk-module"
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+JavaScript error: http://localhost:3000/search/static/js/scripts.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+1593446626911	Marionette	INFO	Stopped listening on port 43703
+Gtk-Message: 16:05:12.794: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 16:05:13.361: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 16:05:13.431: Failed to load module "appmenu-gtk-module"
+
+(firefox:11577): GLib-GIO-WARNING **: 16:05:13.500: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593446714046	Marionette	INFO	Listening on port 44983
+1593446714115	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 16:05:14.376: Failed to load module "appmenu-gtk-module"
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+JavaScript error: http://localhost:3000/search/static/js/scripts.js, line 1: SyntaxError: expected expression, got '<'
+1593446725353	Marionette	INFO	Stopped listening on port 44983
+Gtk-Message: 16:10:28.276: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 16:10:28.835: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 16:10:28.908: Failed to load module "appmenu-gtk-module"
+
+(firefox:12459): GLib-GIO-WARNING **: 16:10:29.022: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593447029445	Marionette	INFO	Listening on port 42009
+1593447029500	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 16:10:29.873: Failed to load module "appmenu-gtk-module"
+1593447040361	Marionette	INFO	Stopped listening on port 42009
+Gtk-Message: 16:11:55.579: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 16:11:56.134: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 16:11:56.207: Failed to load module "appmenu-gtk-module"
+
+(firefox:13159): GLib-GIO-WARNING **: 16:11:56.268: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593447116806	Marionette	INFO	Listening on port 46371
+1593447116906	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 16:11:57.156: Failed to load module "appmenu-gtk-module"
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Gtk-Message: 16:13:26.119: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 16:13:26.706: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 16:13:26.766: Failed to load module "appmenu-gtk-module"
+
+(firefox:13557): GLib-GIO-WARNING **: 16:13:26.836: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593447207355	Marionette	INFO	Listening on port 38767
+1593447207433	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 16:13:27.705: Failed to load module "appmenu-gtk-module"
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+1593447259159	Marionette	INFO	Stopped listening on port 38767
+Gtk-Message: 16:14:57.436: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 16:14:58.007: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 16:14:58.114: Failed to load module "appmenu-gtk-module"
+
+(firefox:13880): GLib-GIO-WARNING **: 16:14:58.202: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593447298632	Marionette	INFO	Listening on port 33783
+1593447298650	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 16:14:59.039: Failed to load module "appmenu-gtk-module"
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Gtk-Message: 16:18:42.014: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 16:18:42.578: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 16:18:42.647: Failed to load module "appmenu-gtk-module"
+
+(firefox:14368): GLib-GIO-WARNING **: 16:18:42.733: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593447523222	Marionette	INFO	Listening on port 45193
+1593447523237	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 16:18:43.619: Failed to load module "appmenu-gtk-module"
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Gtk-Message: 16:20:12.580: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 16:20:13.134: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 16:20:13.209: Failed to load module "appmenu-gtk-module"
+
+(firefox:14760): GLib-GIO-WARNING **: 16:20:13.336: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593447613814	Marionette	INFO	Listening on port 43953
+1593447613919	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 16:20:14.152: Failed to load module "appmenu-gtk-module"
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+Exiting due to channel error.
+Gtk-Message: 16:20:33.443: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 16:20:34.019: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 16:20:34.091: Failed to load module "appmenu-gtk-module"
+
+(firefox:15017): GLib-GIO-WARNING **: 16:20:34.149: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593447634637	Marionette	INFO	Listening on port 45275
+1593447634658	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 16:20:35.068: Failed to load module "appmenu-gtk-module"
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+1593447635929	Marionette	INFO	Stopped listening on port 45275
+Gtk-Message: 16:20:54.323: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 16:20:54.903: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 16:20:54.976: Failed to load module "appmenu-gtk-module"
+
+(firefox:15270): GLib-GIO-WARNING **: 16:20:55.078: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593447655592	Marionette	INFO	Listening on port 35161
+1593447655602	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 16:20:55.917: Failed to load module "appmenu-gtk-module"
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+1593447696464	Marionette	INFO	Stopped listening on port 35161
+Gtk-Message: 16:30:53.476: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 16:30:54.064: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 16:30:54.137: Failed to load module "appmenu-gtk-module"
+
+(firefox:16794): GLib-GIO-WARNING **: 16:30:54.222: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593448254709	Marionette	INFO	Listening on port 32881
+1593448254810	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593448254866	Marionette	INFO	Stopped listening on port 32881
+Gtk-Message: 16:31:23.424: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 16:31:23.989: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 16:31:24.073: Failed to load module "appmenu-gtk-module"
+
+(firefox:17036): GLib-GIO-WARNING **: 16:31:24.170: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593448284647	Marionette	INFO	Listening on port 43011
+1593448284747	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593448284796	Marionette	INFO	Stopped listening on port 43011
+Gtk-Message: 16:32:15.151: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 16:32:15.747: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 16:32:15.842: Failed to load module "appmenu-gtk-module"
+
+(firefox:17329): GLib-GIO-WARNING **: 16:32:15.902: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593448336398	Marionette	INFO	Listening on port 38157
+1593448336474	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593448336496	Marionette	INFO	Stopped listening on port 38157
+Gtk-Message: 16:32:47.054: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 16:32:47.638: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 16:32:47.713: Failed to load module "appmenu-gtk-module"
+
+(firefox:17565): GLib-GIO-WARNING **: 16:32:47.820: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593448368235	Marionette	INFO	Listening on port 44855
+1593448368291	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593448368334	Marionette	INFO	Stopped listening on port 44855
+console.warn: services.settings: main/cfr sync interrupted by shutdown
+Gtk-Message: 08:48:53.218: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 08:48:53.840: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 08:48:53.911: Failed to load module "appmenu-gtk-module"
+
+(firefox:2592): GLib-GIO-WARNING **: 08:48:53.981: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593679734496	Marionette	INFO	Listening on port 44849
+1593679734532	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 08:48:54.866: Failed to load module "appmenu-gtk-module"
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+1593679768958	Marionette	INFO	Stopped listening on port 44849
+Gtk-Message: 08:53:19.468: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 08:53:19.983: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 08:53:20.072: Failed to load module "appmenu-gtk-module"
+
+(firefox:3687): GLib-GIO-WARNING **: 08:53:20.162: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593680000637	Marionette	INFO	Listening on port 34491
+1593680000695	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 08:53:21.001: Failed to load module "appmenu-gtk-module"
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+1593680003324	Marionette	INFO	Stopped listening on port 34491
+Gtk-Message: 08:53:55.489: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 08:53:56.063: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 08:53:56.153: Failed to load module "appmenu-gtk-module"
+
+(firefox:3954): GLib-GIO-WARNING **: 08:53:56.246: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593680036701	Marionette	INFO	Listening on port 42427
+1593680036718	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 08:53:57.062: Failed to load module "appmenu-gtk-module"
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+1593680038332	Marionette	INFO	Stopped listening on port 42427
+Gtk-Message: 08:54:28.918: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 08:54:29.477: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 08:54:29.565: Failed to load module "appmenu-gtk-module"
+
+(firefox:4214): GLib-GIO-WARNING **: 08:54:29.614: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593680070143	Marionette	INFO	Listening on port 46581
+1593680070246	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 08:54:30.496: Failed to load module "appmenu-gtk-module"
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+1593680072625	Marionette	INFO	Stopped listening on port 46581
+Gtk-Message: 08:54:48.321: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 08:54:48.884: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 08:54:48.965: Failed to load module "appmenu-gtk-module"
+
+(firefox:4466): GLib-GIO-WARNING **: 08:54:49.064: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593680089542	Marionette	INFO	Listening on port 34117
+1593680089645	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 08:54:49.896: Failed to load module "appmenu-gtk-module"
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+1593680092239	Marionette	INFO	Stopped listening on port 34117
+Gtk-Message: 08:55:12.213: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 08:55:12.788: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 08:55:12.875: Failed to load module "appmenu-gtk-module"
+
+(firefox:4719): GLib-GIO-WARNING **: 08:55:12.931: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593680113409	Marionette	INFO	Listening on port 42317
+1593680113446	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 08:55:13.829: Failed to load module "appmenu-gtk-module"
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+1593680115086	Marionette	INFO	Stopped listening on port 42317
+Gtk-Message: 08:55:34.635: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 08:55:35.261: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 08:55:35.339: Failed to load module "appmenu-gtk-module"
+
+(firefox:4971): GLib-GIO-WARNING **: 08:55:35.358: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593680135864	Marionette	INFO	Listening on port 45707
+1593680135950	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 08:55:36.280: Failed to load module "appmenu-gtk-module"
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+1593680137513	Marionette	INFO	Stopped listening on port 45707
+Gtk-Message: 08:55:59.616: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 08:56:00.202: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 08:56:00.273: Failed to load module "appmenu-gtk-module"
+
+(firefox:5223): GLib-GIO-WARNING **: 08:56:00.353: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593680160892	Marionette	INFO	Listening on port 44217
+1593680160939	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 08:56:01.228: Failed to load module "appmenu-gtk-module"
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+1593680162450	Marionette	INFO	Stopped listening on port 44217
+Gtk-Message: 09:00:00.734: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:00:01.258: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:00:01.345: Failed to load module "appmenu-gtk-module"
+
+(firefox:5921): GLib-GIO-WARNING **: 09:00:01.423: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593680401916	Marionette	INFO	Listening on port 41875
+1593680401961	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 09:00:02.273: Failed to load module "appmenu-gtk-module"
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+1593680403806	Marionette	INFO	Stopped listening on port 41875
+Gtk-Message: 09:02:55.436: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:02:55.991: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:02:56.064: Failed to load module "appmenu-gtk-module"
+
+(firefox:6373): GLib-GIO-WARNING **: 09:02:56.112: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593680576607	Marionette	INFO	Listening on port 45617
+1593680576658	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 09:02:57.023: Failed to load module "appmenu-gtk-module"
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+1593680578882	Marionette	INFO	Stopped listening on port 45617
+Gtk-Message: 09:03:48.517: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:03:49.069: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:03:49.144: Failed to load module "appmenu-gtk-module"
+
+(firefox:6627): GLib-GIO-WARNING **: 09:03:49.211: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593680629709	Marionette	INFO	Listening on port 40259
+1593680629747	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 09:03:50.107: Failed to load module "appmenu-gtk-module"
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+1593680631086	Marionette	INFO	Stopped listening on port 40259
+Gtk-Message: 09:03:55.590: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:03:56.169: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:03:56.261: Failed to load module "appmenu-gtk-module"
+
+(firefox:6869): GLib-GIO-WARNING **: 09:03:56.319: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593680636809	Marionette	INFO	Listening on port 46139
+1593680636816	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 09:03:57.190: Failed to load module "appmenu-gtk-module"
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+1593680638441	Marionette	INFO	Stopped listening on port 46139
+Gtk-Message: 09:06:08.588: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:06:09.156: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:06:09.230: Failed to load module "appmenu-gtk-module"
+
+(firefox:7290): GLib-GIO-WARNING **: 09:06:09.292: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593680769786	Marionette	INFO	Listening on port 35953
+1593680769805	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+Gtk-Message: 09:06:10.191: Failed to load module "appmenu-gtk-module"
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+1593680771177	Marionette	INFO	Stopped listening on port 35953
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Gtk-Message: 09:06:14.721: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:06:15.297: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:06:15.369: Failed to load module "appmenu-gtk-module"
+
+(firefox:7539): GLib-GIO-WARNING **: 09:06:15.430: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593680775933	Marionette	INFO	Listening on port 35539
+1593680775947	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 09:06:16.321: Failed to load module "appmenu-gtk-module"
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+1593680777578	Marionette	INFO	Stopped listening on port 35539
+Gtk-Message: 09:07:16.772: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:07:17.359: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:07:17.431: Failed to load module "appmenu-gtk-module"
+
+(firefox:7788): GLib-GIO-WARNING **: 09:07:17.508: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593680838070	Marionette	INFO	Listening on port 33059
+1593680838094	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 09:07:18.388: Failed to load module "appmenu-gtk-module"
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+1593680839429	Marionette	INFO	Stopped listening on port 33059
+Gtk-Message: 09:07:23.896: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:07:24.450: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:07:24.550: Failed to load module "appmenu-gtk-module"
+
+(firefox:8029): GLib-GIO-WARNING **: 09:07:24.583: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593680845114	Marionette	INFO	Listening on port 33151
+1593680845124	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 09:07:25.454: Failed to load module "appmenu-gtk-module"
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+1593680846769	Marionette	INFO	Stopped listening on port 33151
+Gtk-Message: 09:07:41.634: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:07:42.214: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:07:42.311: Failed to load module "appmenu-gtk-module"
+
+(firefox:8277): GLib-GIO-WARNING **: 09:07:42.358: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593680862874	Marionette	INFO	Listening on port 33597
+1593680862958	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 09:07:43.264: Failed to load module "appmenu-gtk-module"
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+1593680864224	Marionette	INFO	Stopped listening on port 33597
+Gtk-Message: 09:07:48.723: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:07:49.342: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:07:49.415: Failed to load module "appmenu-gtk-module"
+
+(firefox:8523): GLib-GIO-WARNING **: 09:07:49.499: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593680869958	Marionette	INFO	Listening on port 46829
+1593680870050	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 09:07:50.380: Failed to load module "appmenu-gtk-module"
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+1593680871637	Marionette	INFO	Stopped listening on port 46829
+Gtk-Message: 09:09:24.079: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:09:24.594: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:09:24.681: Failed to load module "appmenu-gtk-module"
+
+(firefox:8864): GLib-GIO-WARNING **: 09:09:24.775: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593680965301	Marionette	INFO	Listening on port 34135
+1593680965406	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 09:09:25.622: Failed to load module "appmenu-gtk-module"
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+1593680972900	Marionette	INFO	Stopped listening on port 34135
+Exiting due to channel error.
+Gtk-Message: 09:10:00.771: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:10:01.357: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:10:01.461: Failed to load module "appmenu-gtk-module"
+
+(firefox:9124): GLib-GIO-WARNING **: 09:10:01.559: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593681002063	Marionette	INFO	Listening on port 34309
+1593681002091	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 09:10:02.370: Failed to load module "appmenu-gtk-module"
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+1593681038953	Marionette	INFO	Stopped listening on port 34309
+Gtk-Message: 09:10:43.693: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:10:44.298: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:10:44.369: Failed to load module "appmenu-gtk-module"
+
+(firefox:9384): GLib-GIO-WARNING **: 09:10:44.429: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593681044997	Marionette	INFO	Listening on port 37839
+1593681045015	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 09:10:45.319: Failed to load module "appmenu-gtk-module"
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+Exiting due to channel error.
+Gtk-Message: 09:11:12.439: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:11:12.991: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:11:13.064: Failed to load module "appmenu-gtk-module"
+
+(firefox:9658): GLib-GIO-WARNING **: 09:11:13.155: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593681073640	Marionette	INFO	Listening on port 39411
+1593681073661	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 09:11:14.002: Failed to load module "appmenu-gtk-module"
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+Exiting due to channel error.
+Gtk-Message: 09:11:36.680: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:11:37.231: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:11:37.319: Failed to load module "appmenu-gtk-module"
+
+(firefox:9911): GLib-GIO-WARNING **: 09:11:37.378: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593681097907	Marionette	INFO	Listening on port 43785
+1593681097997	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 09:11:38.253: Failed to load module "appmenu-gtk-module"
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+1593681118852	Marionette	INFO	Stopped listening on port 43785
+Gtk-Message: 09:12:03.565: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:12:04.122: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:12:04.227: Failed to load module "appmenu-gtk-module"
+
+(firefox:10172): GLib-GIO-WARNING **: 09:12:04.298: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593681124788	Marionette	INFO	Listening on port 33509
+1593681124888	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 09:12:05.124: Failed to load module "appmenu-gtk-module"
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+1593681129509	Marionette	INFO	Stopped listening on port 33509
+Gtk-Message: 09:12:54.058: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:12:54.622: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:12:54.696: Failed to load module "appmenu-gtk-module"
+
+(firefox:10456): GLib-GIO-WARNING **: 09:12:54.762: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593681175331	Marionette	INFO	Listening on port 39907
+1593681175380	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 09:12:55.636: Failed to load module "appmenu-gtk-module"
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+1593681186291	Marionette	INFO	Stopped listening on port 39907
+Gtk-Message: 09:13:10.778: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:13:11.381: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:13:11.461: Failed to load module "appmenu-gtk-module"
+
+(firefox:10707): GLib-GIO-WARNING **: 09:13:11.517: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593681192089	Marionette	INFO	Listening on port 45937
+1593681192098	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 09:13:12.384: Failed to load module "appmenu-gtk-module"
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+1593681193675	Marionette	INFO	Stopped listening on port 45937
+Gtk-Message: 09:14:20.236: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:14:20.799: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:14:20.884: Failed to load module "appmenu-gtk-module"
+
+(firefox:11035): GLib-GIO-WARNING **: 09:14:20.955: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593681261499	Marionette	INFO	Listening on port 44915
+1593681261560	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 09:14:21.816: Failed to load module "appmenu-gtk-module"
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+1593681282007	Marionette	INFO	Stopped listening on port 44915
+Gtk-Message: 09:14:53.511: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:14:54.071: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:14:54.143: Failed to load module "appmenu-gtk-module"
+
+(firefox:11311): GLib-GIO-WARNING **: 09:14:54.209: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593681294750	Marionette	INFO	Listening on port 43173
+1593681294837	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 09:14:55.083: Failed to load module "appmenu-gtk-module"
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+1593681296391	Marionette	INFO	Stopped listening on port 43173
+Gtk-Message: 09:15:22.829: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:15:23.383: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:15:23.456: Failed to load module "appmenu-gtk-module"
+
+(firefox:11571): GLib-GIO-WARNING **: 09:15:23.562: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593681324054	Marionette	INFO	Listening on port 38463
+1593681324149	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 09:15:24.399: Failed to load module "appmenu-gtk-module"
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+1593681330325	Marionette	INFO	Stopped listening on port 38463
+Gtk-Message: 09:15:34.967: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:15:35.557: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:15:35.649: Failed to load module "appmenu-gtk-module"
+
+(firefox:11820): GLib-GIO-WARNING **: 09:15:35.714: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593681336212	Marionette	INFO	Listening on port 37191
+1593681336290	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 09:15:36.566: Failed to load module "appmenu-gtk-module"
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+1593681347077	Marionette	INFO	Stopped listening on port 37191
+Gtk-Message: 09:16:00.225: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:16:00.799: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:16:00.870: Failed to load module "appmenu-gtk-module"
+
+(firefox:12069): GLib-GIO-WARNING **: 09:16:00.924: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593681361420	Marionette	INFO	Listening on port 43901
+1593681361473	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 09:16:01.832: Failed to load module "appmenu-gtk-module"
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+1593681370857	Marionette	INFO	Stopped listening on port 43901
+Gtk-Message: 09:16:14.353: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:16:14.949: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:16:15.038: Failed to load module "appmenu-gtk-module"
+
+(firefox:12321): GLib-GIO-WARNING **: 09:16:15.136: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593681375617	Marionette	INFO	Listening on port 33999
+1593681375674	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 09:16:15.932: Failed to load module "appmenu-gtk-module"
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+1593681378270	Marionette	INFO	Stopped listening on port 33999
+Gtk-Message: 09:18:36.780: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:18:37.343: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:18:37.415: Failed to load module "appmenu-gtk-module"
+
+(firefox:12770): GLib-GIO-WARNING **: 09:18:37.497: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593681518042	Marionette	INFO	Listening on port 40851
+1593681518085	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 09:18:38.348: Failed to load module "appmenu-gtk-module"
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+1593681527973	Marionette	INFO	Stopped listening on port 40851
+Gtk-Message: 09:18:52.552: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:18:53.181: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:18:53.251: Failed to load module "appmenu-gtk-module"
+
+(firefox:13026): GLib-GIO-WARNING **: 09:18:53.334: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593681533932	Marionette	INFO	Listening on port 34199
+1593681534036	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 09:18:54.198: Failed to load module "appmenu-gtk-module"
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+1593681535684	Marionette	INFO	Stopped listening on port 34199
+Gtk-Message: 09:19:17.999: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:19:18.560: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:19:18.648: Failed to load module "appmenu-gtk-module"
+
+(firefox:13268): GLib-GIO-WARNING **: 09:19:18.757: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593681559267	Marionette	INFO	Listening on port 45281
+1593681559331	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 09:19:19.568: Failed to load module "appmenu-gtk-module"
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+1593681560441	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:853:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+1593681560443	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+1593681561852	Marionette	INFO	Stopped listening on port 45281
+Gtk-Message: 09:19:26.330: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:19:26.951: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:19:27.015: Failed to load module "appmenu-gtk-module"
+
+(firefox:13508): GLib-GIO-WARNING **: 09:19:27.071: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593681567588	Marionette	INFO	Listening on port 38167
+1593681567674	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 09:19:27.938: Failed to load module "appmenu-gtk-module"
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+1593681568786	Marionette	INFO	Stopped listening on port 38167
+Gtk-Message: 09:21:47.764: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:21:48.345: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:21:48.433: Failed to load module "appmenu-gtk-module"
+
+(firefox:13783): GLib-GIO-WARNING **: 09:21:48.472: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593681708982	Marionette	INFO	Listening on port 46597
+1593681709083	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 09:21:49.362: Failed to load module "appmenu-gtk-module"
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+1593681710137	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:853:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+1593681710139	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+1593681711548	Marionette	INFO	Stopped listening on port 46597
+Gtk-Message: 09:21:57.068: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:21:57.621: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:21:57.697: Failed to load module "appmenu-gtk-module"
+
+(firefox:14020): GLib-GIO-WARNING **: 09:21:57.762: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593681718343	Marionette	INFO	Listening on port 39015
+1593681718393	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 09:21:58.645: Failed to load module "appmenu-gtk-module"
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+1593681719961	Marionette	INFO	Stopped listening on port 39015
+Gtk-Message: 09:22:28.393: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:22:28.967: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:22:29.044: Failed to load module "appmenu-gtk-module"
+
+(firefox:14270): GLib-GIO-WARNING **: 09:22:29.144: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593681749660	Marionette	INFO	Listening on port 44217
+1593681749720	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 09:22:29.979: Failed to load module "appmenu-gtk-module"
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+1593681750858	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:853:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+1593681750860	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+1593681752289	Marionette	INFO	Stopped listening on port 44217
+Gtk-Message: 09:22:42.835: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:22:43.393: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:22:43.462: Failed to load module "appmenu-gtk-module"
+
+(firefox:14516): GLib-GIO-WARNING **: 09:22:43.554: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593681764016	Marionette	INFO	Listening on port 34455
+1593681764037	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+Gtk-Message: 09:22:44.412: Failed to load module "appmenu-gtk-module"
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+1593681765598	Marionette	INFO	Stopped listening on port 34455
+Gtk-Message: 09:32:09.015: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:32:09.529: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:32:09.628: Failed to load module "appmenu-gtk-module"
+
+(firefox:14854): GLib-GIO-WARNING **: 09:32:09.717: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593682330222	Marionette	INFO	Listening on port 36271
+1593682330239	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 09:32:10.557: Failed to load module "appmenu-gtk-module"
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+1593682331320	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:853:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+1593682331321	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+1593682332242	Marionette	INFO	Stopped listening on port 36271
+Gtk-Message: 09:32:16.925: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:32:17.500: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:32:17.573: Failed to load module "appmenu-gtk-module"
+
+(firefox:15100): GLib-GIO-WARNING **: 09:32:17.669: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593682338162	Marionette	INFO	Listening on port 40153
+1593682338253	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 09:32:18.494: Failed to load module "appmenu-gtk-module"
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+1593682339865	Marionette	INFO	Stopped listening on port 40153
+Gtk-Message: 11:00:14.230: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 11:00:14.790: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 11:00:14.862: Failed to load module "appmenu-gtk-module"
+
+(firefox:16571): GLib-GIO-WARNING **: 11:00:14.938: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593687615419	Marionette	INFO	Listening on port 44271
+1593687615445	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 11:00:15.800: Failed to load module "appmenu-gtk-module"
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+1593687619347	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:853:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+1593687619348	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+1593687620797	Marionette	INFO	Stopped listening on port 44271
+Gtk-Message: 11:00:26.340: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 11:00:26.890: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 11:00:26.963: Failed to load module "appmenu-gtk-module"
+
+(firefox:16825): GLib-GIO-WARNING **: 11:00:27.053: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593687627545	Marionette	INFO	Listening on port 39265
+1593687627557	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 11:00:27.908: Failed to load module "appmenu-gtk-module"
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+1593687629838	Marionette	INFO	Stopped listening on port 39265
+Gtk-Message: 11:10:51.416: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 11:10:52.016: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 11:10:52.098: Failed to load module "appmenu-gtk-module"
+
+(firefox:17269): GLib-GIO-WARNING **: 11:10:52.167: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593688252757	Marionette	INFO	Listening on port 37071
+1593688252836	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 11:10:53.032: Failed to load module "appmenu-gtk-module"
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+1593688254073	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:853:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+1593688254075	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+1593688255457	Marionette	INFO	Stopped listening on port 37071
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Gtk-Message: 11:11:04.936: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 11:11:05.547: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 11:11:05.634: Failed to load module "appmenu-gtk-module"
+
+(firefox:17518): GLib-GIO-WARNING **: 11:11:05.736: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1593688266285	Marionette	INFO	Listening on port 33663
+1593688266359	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 11:11:06.586: Failed to load module "appmenu-gtk-module"
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+1593688267962	Marionette	INFO	Stopped listening on port 33663
+Gtk-Message: 12:01:37.782: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 12:01:38.648: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 12:01:38.731: Failed to load module "appmenu-gtk-module"
+
+(firefox:11798): GLib-GIO-WARNING **: 12:01:38.841: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1594296099390	Marionette	INFO	Listening on port 32837
+1594296099406	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594296099481	Marionette	INFO	Stopped listening on port 32837
+console.warn: services.settings: main/whats-new-panel sync interrupted by shutdown
+Gtk-Message: 12:01:42.248: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 12:01:42.766: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 12:01:42.865: Failed to load module "appmenu-gtk-module"
+
+(firefox:12011): GLib-GIO-WARNING **: 12:01:42.969: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1594296103494	Marionette	INFO	Listening on port 42215
+1594296103569	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594296103666	Marionette	INFO	Stopped listening on port 42215
+Gtk-Message: 14:37:36.742: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 14:37:37.339: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 14:37:37.431: Failed to load module "appmenu-gtk-module"
+
+(firefox:3876): GLib-GIO-WARNING **: 14:37:37.522: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1595428658086	Marionette	INFO	Listening on port 33215
+1595428658137	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 14:37:38.363: Failed to load module "appmenu-gtk-module"
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+1595428660108	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:853:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+1595428660110	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+1595428662034	Marionette	INFO	Stopped listening on port 33215
+Gtk-Message: 14:37:46.484: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 14:37:47.043: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 14:37:47.115: Failed to load module "appmenu-gtk-module"
+
+(firefox:4128): GLib-GIO-WARNING **: 14:37:47.228: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1595428667741	Marionette	INFO	Listening on port 34973
+1595428667806	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 14:37:48.062: Failed to load module "appmenu-gtk-module"
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+1595428669318	Marionette	INFO	Stopped listening on port 34973
+Gtk-Message: 14:38:46.766: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 14:38:47.324: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 14:38:47.394: Failed to load module "appmenu-gtk-module"
+
+(firefox:4408): GLib-GIO-WARNING **: 14:38:47.499: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1595428727996	Marionette	INFO	Listening on port 33629
+1595428728083	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 14:38:48.346: Failed to load module "appmenu-gtk-module"
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+1595428729151	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:853:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+1595428729153	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+1595428730617	Marionette	INFO	Stopped listening on port 33629
+Gtk-Message: 14:39:01.335: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 14:39:01.900: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 14:39:01.971: Failed to load module "appmenu-gtk-module"
+
+(firefox:4668): GLib-GIO-WARNING **: 14:39:02.089: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1595428742592	Marionette	INFO	Listening on port 38699
+1595428742625	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 14:39:02.911: Failed to load module "appmenu-gtk-module"
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+1595428743643	Marionette	INFO	Stopped listening on port 38699
+Gtk-Message: 14:41:22.921: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 14:41:23.473: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 14:41:23.549: Failed to load module "appmenu-gtk-module"
+
+(firefox:5046): GLib-GIO-WARNING **: 14:41:23.641: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1595428884135	Marionette	INFO	Listening on port 37325
+1595428884221	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 14:41:24.477: Failed to load module "appmenu-gtk-module"
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+1595428887176	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:853:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+1595428887179	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+1595428888641	Marionette	INFO	Stopped listening on port 37325
+Gtk-Message: 14:41:35.214: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 14:41:35.785: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 14:41:35.860: Failed to load module "appmenu-gtk-module"
+
+(firefox:5298): GLib-GIO-WARNING **: 14:41:35.977: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1595428896500	Marionette	INFO	Listening on port 43825
+1595428896535	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 14:41:36.808: Failed to load module "appmenu-gtk-module"
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+1595428898029	Marionette	INFO	Stopped listening on port 43825
+Gtk-Message: 09:13:27.779: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:13:28.447: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:13:28.516: Failed to load module "appmenu-gtk-module"
+
+(firefox:99441): GLib-GIO-WARNING **: 09:13:28.610: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1595495609083	Marionette	INFO	Listening on port 35957
+1595495609159	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 09:13:29.432: Failed to load module "appmenu-gtk-module"
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+1595495611436	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:853:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+1595495611438	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+1595495612876	Marionette	INFO	Stopped listening on port 35957
+Gtk-Message: 09:13:37.811: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:13:38.532: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:13:38.607: Failed to load module "appmenu-gtk-module"
+
+(firefox:99702): GLib-GIO-WARNING **: 09:13:38.661: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1595495619153	Marionette	INFO	Listening on port 46367
+1595495619191	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 09:13:39.543: Failed to load module "appmenu-gtk-module"
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+1595495621909	Marionette	INFO	Stopped listening on port 46367
+Gtk-Message: 09:15:28.112: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:15:28.754: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:15:28.829: Failed to load module "appmenu-gtk-module"
+
+(firefox:100074): GLib-GIO-WARNING **: 09:15:28.891: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1595495729343	Marionette	INFO	Listening on port 43885
+1595495729427	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 09:15:29.757: Failed to load module "appmenu-gtk-module"
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+1595495731627	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:853:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+1595495731629	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+1595495732570	Marionette	INFO	Stopped listening on port 43885
+Gtk-Message: 09:15:37.081: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:15:37.665: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 09:15:37.739: Failed to load module "appmenu-gtk-module"
+
+(firefox:100325): GLib-GIO-WARNING **: 09:15:37.845: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1595495738288	Marionette	INFO	Listening on port 36407
+1595495738295	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 09:15:38.693: Failed to load module "appmenu-gtk-module"
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+JavaScript error: http://localhost:3000/static/js/scripts.js, line 36: TypeError: $(...).offset() is undefined
+1595495740550	Marionette	INFO	Stopped listening on port 36407
